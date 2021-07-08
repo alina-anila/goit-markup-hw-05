@@ -207,7 +207,7 @@ img {
     border-radius: 4px;
     text-align: center;
     outline: none;
-    border: none;
+    border: none;    
 }
 
 /* ===========================Strengths=================================== */
@@ -621,7 +621,7 @@ img {
     background-color: rgba(0, 0, 0, 0.2);
     opacity: 1;
     transition-duration: var(--transition-duration);
-    transform: scale(1);
+    transform: scale(1);  
 }
 .hero-modal{
     position: absolute;
